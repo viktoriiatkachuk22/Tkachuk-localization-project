@@ -1,0 +1,20 @@
+{
+  "agency_name": "ViktoLingua",
+  "owner_label": "Owner:",
+  "owner_name": "Viktoria Tkachuk",
+  "about_title": "About Us",
+  "about_text": "We provide professional translation services for the global market.",
+  "industries_title": "Translation Industries",
+  "ind_business": "Business & Finance",
+  "ind_edu": "Education & E-learning",
+  "ind_tech": "Technology & IT",
+  "rates_title": "Our Rates",
+  "rate_standard": "Standard - 0.05$/word",
+  "rate_pro": "Expert - 0.08$/word",
+  "lang_pair_title": "Select a language pair:",
+  "pair_1": "Ukrainian - English",
+  "pair_2": "Ukrainian - German",
+  "pair_3": "Ukrainian - Polish",
+  "btn_order": "Order a Project",
+  "btn_lang": "Change language/ Змінити мову"
+}
